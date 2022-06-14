@@ -1,5 +1,8 @@
-### Hi there 👋
+### Helloooooo><
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tsukiii-yue.visitor-badge&right_color=pink)
+![Profile views](https://gpvc.arturio.dev/tsukiii-yue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsukiii-yue)](https://github.com/tsukiii-yue/github-readme-stats)
 <!--
 **tsukiii-yue/tsukiii-yue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
