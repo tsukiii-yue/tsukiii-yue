@@ -2,6 +2,7 @@
 ### Helloooooo><
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tsukiii-yue.visitor-badge&right_color=pink)
 ![Profile views](https://gpvc.arturio.dev/tsukiii-yue)
+![](https://dcbadge.vercel.app/api/shield/590160336502652928)
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-26%20Thousand%20lines%20of%20code-blue)
 
