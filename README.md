@@ -2,8 +2,6 @@
 ### Helloooooo><
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tsukiii-yue.visitor-badge&right_color=pink)
 ![Profile views](https://gpvc.arturio.dev/tsukiii-yue)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tsukiii-yue)](https://github.com/tsukiii-yue/github-readme-stats)
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
