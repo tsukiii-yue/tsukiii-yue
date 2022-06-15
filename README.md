@@ -33,15 +33,17 @@
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 24 mins       ████████████████████████░   96.95% 
+Assembly                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Browser                  2 hrs 24 mins       ████████████████████████░   96.95% 
+Visual Studio            4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.05%
 
 ```
 
 
- Last Updated on 14/06/2022 14:48:01 UTC
+ Last Updated on 15/06/2022 01:58:11 UTC
 <!--END_SECTION:waka-->
 ![](./profile-3d-contrib/profile-season-animate.svg)
 
